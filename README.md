@@ -1,3 +1,17 @@
+## Enhanced Super Resolution Examples
+### This project was cloned from [ESRGAN](https://github.com/tensorlayer/srgan)
+
+- Dependencies 
+- Python3
+- PyTorch 1.0 
+- Python opencv-python
+
+- Image evaluation need to be done 
+
+
+### --------------------------------------------Orignial README---------------------------------------------
+
+
 # ESRGAN (Enhanced SRGAN) [[Paper]](https://arxiv.org/abs/1809.00219) [[BasicSR]](https://github.com/xinntao/BasicSR) 
 ## :smiley: Training codes are in [BasicSR](https://github.com/xinntao/BasicSR) repo.
 ### Enhanced Super-Resolution Generative Adversarial Networks
