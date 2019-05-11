@@ -6,7 +6,7 @@
 - PyTorch 1.0 
 - Python opencv-python
 
-- Image evaluation need to be done 
+- Image evaluation used the psnr ssmi sharpness code from (https://github.com/kregmi/cross-view-image-synthesis/tree/master/Evaluation) 
 
 
 ### --------------------------------------------Orignial README---------------------------------------------
