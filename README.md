@@ -6,6 +6,8 @@
 - PyTorch 1.0 
 - Python opencv-python
 
+- I modefied the computer generate images dataset from this repo (https://github.com/facebookresearch/DeepFocus), the original dataset cannot be used on GAN directly.   
+
 - Image evaluation used the psnr ssmi sharpness code from (https://github.com/kregmi/cross-view-image-synthesis/tree/master/Evaluation) 
 
 
